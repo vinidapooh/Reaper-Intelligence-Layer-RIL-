@@ -1,0 +1,7 @@
+{
+  "name": "Reaper Intelligence Layer (RIL)",
+  "description": "An AI-native cognitive bridge for REAPER DAW, converting natural language intent into Lua actions and workflow automations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
